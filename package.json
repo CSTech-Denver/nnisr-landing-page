@@ -1,0 +1,11 @@
+{
+  "name": "neuronarrative-institute",
+  "version": "1.0.0",
+  "description": "Landing page for The NeuroNarrative Institute for Social Resilience",
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1 --cors -a localhost"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
